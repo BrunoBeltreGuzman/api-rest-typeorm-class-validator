@@ -1,0 +1,8 @@
+Create Project:
+
+1. create foldel 
+
+2. $ typeorm init --name MyProject --database mysql --express 
+     or
+2. $ typeorm init --database mysql --express
+

@@ -1,0 +1,24 @@
+
+# findAll
+# Metodo: get 
+http://localhost:2000/users
+
+
+# findById
+# Metodo: get 
+http://localhost:2000/users/{id}
+
+
+# insert
+# Metodo: post 
+http://localhost:2000/users
+
+
+# update
+# Metodo: put 
+http://localhost:2000/users/{id}
+
+
+# delete
+# Metodo: delete 
+http://localhost:2000/users/{id}

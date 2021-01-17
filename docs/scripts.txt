@@ -1,0 +1,10 @@
+
+scripts
+
+       tsc": "tsc"
+
+       build": "tsc"
+
+       start": "dist/index.js"
+       
+       dev": "set debug=* && ts-node-dev --respawn --transpile-only ./src/index.ts"

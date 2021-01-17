@@ -1,0 +1,18 @@
+Dependencies:
+
+       class-validator:
+       Permite el uso de validaciones basadas en decoradores y no decoradores. Utiliza internamente validator.js para realizar la validación. El validador de clases funciona tanto en el navegador como en las plataformas node.js.
+
+       typeorm: TypeORM es un ORM que se puede ejecutar en plataformas NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo y Electron y se puede utilizar con TypeScript y JavaScript (ES5, ES6, ES7, ES8). Su objetivo es admitir siempre las últimas funciones de JavaScript y proporcionar funciones adicionales que le ayuden a desarrollar cualquier tipo de aplicación que utilice bases de datos, desde aplicaciones pequeñas con unas pocas tablas hasta aplicaciones empresariales a gran escala con varias bases de datos.
+
+       cors: CORS es un paquete node.js para proporcionar un middleware Connect / Express que se puede usar para habilitar CORS con varias opciones.
+
+       express: La filosofía de Express es proporcionar herramientas pequeñas y sólidas para servidores HTTP, lo que la convierte en una gran solución para aplicaciones de una sola página, sitios web, híbridos o API HTTP públicas.
+
+       morgan: Middleware del registrador de solicitudes HTTP para node.js
+
+       mysql: Este es un controlador node.js para mysql. Está escrito en JavaScript, no requiere compilación y tiene licencia 100% MIT.
+
+       reflect-metadata: Los metadatos , en pocas palabras, son información adicional sobre los datos reales. Por ejemplo, si una variable representa una matriz , la longitud de esa matriz son metadatos. 
+
+     
